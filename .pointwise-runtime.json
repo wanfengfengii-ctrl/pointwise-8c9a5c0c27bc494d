@@ -6,7 +6,7 @@
     "python3.11",
     "-B",
     "optimization_checks.py",
-    "baseline"
+    "target"
   ],
   "demo": [
     "python3.11",

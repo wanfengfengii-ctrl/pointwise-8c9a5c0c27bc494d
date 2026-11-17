@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [],
+  "verify": [
+    "python3.11",
+    "-B",
+    "optimization_checks.py",
+    "baseline"
+  ],
+  "demo": [
+    "python3.11",
+    "-B",
+    "-m",
+    "crisk",
+    "demo"
+  ]
+}
